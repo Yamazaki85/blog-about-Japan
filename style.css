@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+@media only screen and (max-width: 960px) {
+}
+
 .bg {
   background-image: url("https://www.tripsavvy.com/thmb/xmHHjutbUKGMvgxh5Dr1F_BVXB8=/3435x2576/smart/filters:no_upscale()/fuji-mountain-in-autumn-822273028-5a6a8a9c3418c600363958d3.jpg");
   height: 620px;
